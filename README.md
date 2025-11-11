@@ -1,4 +1,5 @@
 # Disease-Prediction-using-Machine-Learning
+# By using Diabetes.csv dataset
 # Disease Prediction using Machine Learning  Domain: Healthcare | Tech Stack: Python, Scikit-learn, Pandas, NumPy, XGBoost, Matplotlib, Seaborn
 # Developed a machine learning model to predict the likelihood of diabetes in patients based on medical parameters such as glucose, BMI, and blood pressure.
 # Performed data preprocessing, feature scaling, and correlation analysis on real-world healthcare data from Kaggle.
